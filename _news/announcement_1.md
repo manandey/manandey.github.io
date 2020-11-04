@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-11-02 07:20:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Paper accepted to [NeurIPS 2020 Workshop on Dataset Curation and Security](https://securedata.lol/){:target="\_blank"}!
