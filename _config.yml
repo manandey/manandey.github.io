@@ -49,24 +49,8 @@ blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
 contact_note: >
-  The best way to reach out to me is through e-mail.
+  Feel free to reach out to me through e-mail.
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
-
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
- 
-# Pagination
-pagination:
-  enabled: true
-
-# Comments
-disqus_shortname: al-folio # put your disqus shortname
-
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------

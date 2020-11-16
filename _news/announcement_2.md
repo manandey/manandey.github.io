@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2019-12-14 07:59:00-0400
+date: 2019-10-02 07:20:00-0400
 inline: true
 ---
 
-Paper accepted to [NeurIPS Joint Workshop on AI for Social Good, 2019](https://aiforsocialgood.github.io/neurips2019/){:target="\_blank"}!
+Paper accepted at [3rd International Workshop on
+Mining Actionable Insights from Social Networks, 2019](https://sites.google.com/view/maison2019/home?authuser=0){:target="\_blank"}!
